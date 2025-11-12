@@ -1,0 +1,5 @@
+The AG news dataset that you'll work on, can be found under the assignment at DTU learn.
+
+It could not be uploaded to Git because of file size restrictions.
+
+Here's to hoping we'll get dvc next year.
